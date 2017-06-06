@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LuMusic</string>
+
+
+    <string name="open_drawer">open</string>
+    <string name="close_drawer">close</string>
+    <string name="search">搜索</string>
+    <string name="random">随机播放</string>
+    <string name="order">顺序播放</string>
+    <string name="setup">设置</string>
+</resources>
